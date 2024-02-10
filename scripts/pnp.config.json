@@ -1,0 +1,5 @@
+{
+    "site": "https://example-domain.sharepoint.com/sites/Financial", 
+    "admin" : ["Test", "test2"],
+    "sections" : { "Form": "true"}
+}
